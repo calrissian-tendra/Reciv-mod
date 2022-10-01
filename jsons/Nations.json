@@ -114,15 +114,15 @@
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Ghost Dance",
 
-		// "startIntroPart1": "TBA",
-		// "startIntroPart2": "TBA",
-		"declaringWar": "Now you will reap what you have sown.",
-		"attacked": "We never expected that you could leave us to live in peace. Destruction is in your blood.",
-		"defeated": "Your legacy is nothing but death.",
-		"introduction": "So, you have returned! While the world died, what hole did you hide in? The cities you left behind are our inheritance.",
+		"startIntroPart1": "The fires of war burned across the world, and we hid ourselves. The time spent underground was spent holding on to the relics of the past that we knew would be gone forever above. Our treasures slowly turned into holy artefacts, sanctified by the loss of all else. We waited in the shelters for three generations, teaching a revernce for the past.",
+		"startIntroPart2": "Now we stand on the earth, the inhertors of Man's Past, and the crumbling ruins are ours, and we will hold them for our children's children, for as many generations as we must, until they are ready to climb out of the rust and ruin and build a civilization.",
+		"declaringWar": "Though we hold the ruins, they are not enough. We will hold all.",
+		"attacked": "Has there not yet been enough death and destruction? Must we add more?",
+		"defeated": "The lessons of the past that surround us were not learned, and you repeat their errors.",
+		"introduction": "So, you have returned! While the world died, what hole did you hide in? The ruins you left behind are our inheritance now.",
 		"neutralHello": "I speak for the Children.",
-		"hateHello": "What will it take? When the last tree has burned and the last child has starved, will you then be satisfied, great leader?",
-		"afterPeace": "Viracocha has frowned upon our war, and has agreed to our peace agreements.",
+		"hateHello": "We hold in trust for the future the lessons of the past. Would you destroy even that?",
+		"afterPeace": "The ruins about us speak enough of war. Let us not add to the writing.",
 		"tradeRequest": "This is the property now of the Children. What price will you pay?",
 
 		"outerColor": [116, 67, 5],
@@ -137,7 +137,7 @@
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [Jungle] tiles>",
 			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [Jungle] tiles>",
 			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
-			"Starts with [Redomestication]"
+			"Starts with [Secrets of the Past]"
 		],
 		"cities": [
 			"Phoenix",
@@ -559,7 +559,7 @@
 		"uniques": [
 			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-33]% maintenance costs <for [Land] units>",
-			"Starts with [Redomestication]",
+			"Starts with [Construction]",
 			"[-1 Science] [in all cities] <before discovering [Writing]>"
 		],
 		"cities": [
@@ -720,7 +720,7 @@
 		"leaderName": "Mutulu Makonnen",
 		"adjective": ["Afrikan"],
 		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		"favoredReligion": "Rastafari",
 
 		// "startIntroPart1": "",
@@ -740,7 +740,7 @@
 		"uniques": [
 			"[+10]% Strength <within [2] tiles of a [City center]>",
 			"Enemy [Land] units must spend [1] extra movement points when inside your territory",
-			"Starts with [Secrets of the Past]"
+			"Starts with [Redomestication]"
 		],
 		"cities": [
 			"Gao",
